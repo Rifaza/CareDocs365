@@ -1,0 +1,33 @@
+# Node.js / React
+node_modules/
+dist/
+.vite/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# .NET build files
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local databases
+*.mdf
+*.ldf
+
+# Local uploaded documents
+**/App_Data/uploads/
+**/wwwroot/uploads/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
